@@ -253,9 +253,11 @@ Apache-2 License
 
 ## Funding
 
+![fund banner](https://github.com/user-attachments/assets/99783b56-91a4-4321-bb32-76b30f11d7df)
+
 If you wanna give back any tokens or donations to the OSS community -- The Webiste of our fund:
 
-### <a href="https://JLB.ai"> JLB.ai </a> 
+### <a href="https://tq.vc"> tq.vc </a> 
 
 ## Security
 
