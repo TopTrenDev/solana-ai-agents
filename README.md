@@ -253,7 +253,9 @@ Apache-2 License
 
 ## Funding
 
-If you wanna give back any tokens or donations to the OSS community -- The Public JLB AI Agent Treasury Address:
+If you wanna give back any tokens or donations to the OSS community -- The Webiste of our fund:
+
+### <a href="https://JLB.ai"> JLB.ai </a> 
 
 ## Security
 
