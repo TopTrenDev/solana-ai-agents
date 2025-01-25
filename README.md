@@ -3,7 +3,7 @@
 ![Banner](https://github.com/user-attachments/assets/a9599b15-44d2-48a9-ad8c-6bcff68970f6)
 
 
-# JLB AI Agent (https://JLB.ai)
+# JLB AI Agent https://JLB.ai
 
 Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
@@ -259,7 +259,7 @@ If you wanna give back any tokens or donations to the OSS community -- The Publi
 
 This toolkit handles private keys and transactions. Always ensure you're using it in a secure environment and never share your private keys.
 
-# 👋 Contact Me
+# 👋 Contact Here
 
 ### 
 Twitter: https://x.com/JLB_company
