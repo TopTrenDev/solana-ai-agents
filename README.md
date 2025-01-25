@@ -4,7 +4,7 @@
 
 
 # JLB AI Agent
-
+tq.vc
 Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
 </div>
@@ -262,7 +262,7 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 # 👋 Contact Me
 
 ### 
-Telegram: https://t.me/earthzeta
+Twitter: https://x.com/JLB_company
 ###
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
