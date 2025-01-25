@@ -3,8 +3,8 @@
 ![Banner](https://github.com/user-attachments/assets/a9599b15-44d2-48a9-ad8c-6bcff68970f6)
 
 
-# JLB AI Agent
-tq.vc
+# JLB AI Agent (https://JLB.ai)
+
 Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
 </div>
@@ -265,8 +265,5 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 Twitter: https://x.com/JLB_company
 ###
 <div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://x.com/Thecrowd_agency" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="TQ Venture Twitter" height="22" width="25" /></a>
 </div>
