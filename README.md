@@ -264,6 +264,6 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 ### 
 Twitter: https://x.com/JLB_company
 ###
-<div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://x.com/Thecrowd_agency" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="TQ Venture Twitter" height="22" width="25" /></a>
-</div>
+<a href="https://x.com/Thecrowd_agency" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
