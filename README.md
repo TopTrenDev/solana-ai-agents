@@ -252,8 +252,14 @@ Apache-2 License
 
 This toolkit handles private keys and transactions. Always ensure you're using it in a secure environment and never share your private keys.
 
-# 👋 Contact Here
+## 👋 Contact Me
 
-<a href="https://x.com/earthzeta" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</a>
+### 
+Telegram: https://t.me/earthzeta
+###
+<div style={{display:flex; justify-content:space-evenly}}> 
+    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>    
+</div>
