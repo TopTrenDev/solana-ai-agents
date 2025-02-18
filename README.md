@@ -1,122 +1,107 @@
-<div align="center">
+# **Solana AI Agent**  
 
-# Solana AI Agent 
+**An innovative AI-powered solution built on the Solana blockchain.**  
 
-Solana AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, Solana empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, Solana aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with Solana, where AI meets the dynamic landscape of blockchain.
+Solana AI Agent revolutionizes digital interactions by integrating **artificial intelligence** with the **Solana blockchain**. Designed for **automating complex tasks** and **optimizing decision-making**, this agent enhances **DeFi operations, trading, analytics, and cross-chain interactions**.  
 
-</div>
+With its ability to learn and adapt, Solana AI Agent ensures **seamless integration and actionable insights** for both newcomers and experienced crypto users.  
 
-# Overview
+---
 
-The Solana AI Agent for connecting AI agents to Solana protocols.
+## **📌 Overview**  
 
-1. **Blockchain Agent Chat Terminal**
-   - Real-time Streaming Implementation
-   - Blockchain Integration
-   - UI Components Design
-2. Trading Infrastructure
-   - Jupiter Exchange swaps
-   - Launch on Pump via PumpPortal
-   - Raydium pool creation (CPMM, CLMM, AMMv4)
-   - Orca Whirlpool integration
-   - Manifest market creation and limit orders
-   - Meteora Dynamic AMM, DLMM Pool, and Alpha Vault
-   - Openbook market creation
-   - Register and resolve SNS
-   - Jito Bundles
-   - Pyth Price feeds for fetching asset prices
-   - Perpetuals trading with Adrena Protocol
-   - Drift Vaults, Perps, Lending, and Borrowing
-3. Analytics and Automation
-   - Dashboard for Real-time Market Analytics
-   - Whale Monitoring
-   - DeFi Insights
-   - NFT Management
-   - NFT Listing Automtaion
-   - Multichain-bridge to Solana
-   - Autonomous trading agent powered by Solana AI
-4. Expand Cross-Chain Support & Security Features
-   - Interoperability
-   - Enhanced Security Tools
-   - Comprehensive Ecosystem Integration
+**Solana AI Agent** enables the connection between AI agents and Solana protocols, offering:  
 
-5. Full Decentralization with Community Governance
-   - Decentralized Architecture
-   - Community-Led Decision Making
-   - Sustainability and Growth
+### **1️⃣ Blockchain Agent Chat Terminal**  
+- **Real-time streaming** implementation  
+- **Blockchain integration** for AI-driven operations  
+- **Intuitive UI components** for seamless interaction  
 
-Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
+### **2️⃣ Trading Infrastructure**  
+- **Jupiter Exchange swaps**  
+- **PumpPortal launch support**  
+- **Raydium pool creation** (CPMM, CLMM, AMMv4)  
+- **Orca Whirlpool & OpenBook market integration**  
+- **Pyth price feeds** for real-time asset tracking  
+- **Drift Vaults, Perps, Lending, and Borrowing**  
 
-[![Run on Repl.it](https://replit.com/badge/github/earthzetaorg/solana-ai-agents)](https://replit.com/@earthzetaorg/solana-ai-agents)
+### **3️⃣ Analytics & Automation**  
+- **Real-time market analytics dashboard**  
+- **Whale monitoring & DeFi insights**  
+- **NFT management & automated NFT listing**  
+- **Multi-chain bridge to Solana**  
+- **Autonomous trading agent powered by Solana AI**  
 
-## 🔧 Core Blockchain Features
+### **4️⃣ Cross-Chain & Security Enhancements**  
+- **Interoperability across ecosystems**  
+- **Advanced security protocols**  
+- **Comprehensive integration with Solana's ecosystem**  
 
-- **Token Operations**
-  - Deploy SPL tokens by Metaplex
-  - Transfer assets
-  - Balance checks
-  - Stake SOL
-  - Zk compressed Airdrop by Light Protocol and Helius
-- **NFTs on 3.Land**
-  - Create your own collection
-  - NFT creation and automatic listing on 3.land
-  - List your NFT for sale in any SPL token
-- **NFT Management via Metaplex**
-  - Collection deployment
-  - NFT minting
-  - Metadata management
-  - Royalty configuration
+### **5️⃣ Full Decentralization & Community Governance**  
+- **Decentralized architecture**  
+- **Community-led decision-making**  
+- **Sustainable growth & innovation**  
 
-- **DeFi Integration**
-  - Jupiter Exchange swaps
-  - Launch on Pump via PumpPortal
-  - Raydium pool creation (CPMM, CLMM, AMMv4)
-  - Orca Whirlpool integration
-  - Manifest market creation, and limit orders
-  - Meteora Dynamic AMM, DLMM Pool, and Alpha Vault
-  - Openbook market creation
-  - Register and Resolve SNS
-  - Jito Bundles
-  - Pyth Price feeds for fetching Asset Prices
-  - Register/resolve Alldomains
-  - Perpetuals Trading with Adrena Protocol
-  - Drift Vaults, Perps, Lending and Borrowing
+**Anyone**—whether an **AI researcher** or a **crypto-native developer**—can train AI agents and seamlessly integrate them with Solana.  
 
-- **Solana Blinks**
-   - Lending by Lulo (Best APR for USDC)
-   - Send Arcade Games
-   - JupSOL staking
-   - Solayer SOL (sSOL)staking
+[![Run on Replit](https://replit.com/badge/github/toptrendev/solana-ai-agents)](https://replit.com/@toptrendev/solana-ai-agents)  
 
-- **Non-Financial Actions**
-  - Gib Work for registering bounties
+---
 
-## 🤖 AI Integration Features
+## **🔧 Core Blockchain Features**  
 
-- **LangChain Integration**
-  - Ready-to-use LangChain tools for blockchain operations
-  - Autonomous agent support with React framework
-  - Memory management for persistent interactions
-  - Streaming responses for real-time feedback
+### **🪙 Token Operations**  
+- Deploy **SPL tokens** via **Metaplex**  
+- **Transfer assets** and **balance checks**  
+- **Stake SOL** for rewards  
+- **ZK-compressed airdrops** via **Light Protocol & Helius**  
 
-- **Vercel AI SDK Integration**
-  - Vercel AI SDK for AI agent integration
-  - Framework agnostic support
-  - Quick and easy toolkit setup
+### **🎨 NFT Integration**  
+- **Create NFT collections** and list them automatically on **3.land**  
+- **NFT metadata & royalty management** via **Metaplex**  
 
-- **Autonomous Modes**
-  - Interactive chat mode for guided operations
-  - Autonomous mode for independent agent actions
-  - Configurable action intervals
-  - Built-in error handling and recovery
+### **📊 DeFi Integration**  
+- **Jupiter Exchange swaps & PumpPortal integration**  
+- **Raydium & Orca liquidity pools**  
+- **Perpetuals trading & lending via Adrena and Drift**  
+- **Market data via Pyth price feeds**  
 
-- **AI Tools**
-  - DALL-E integration for NFT artwork generation
-  - Natural language processing for blockchain commands
-  - Price feed integration for market analysis
-  - Automated decision-making capabilities
+### **⚡ Solana Blinks**  
+- **Best USDC lending rates via Lulo**  
+- **Arcade game transactions**  
+- **JupSOL staking & Solayer SOL staking**  
 
-## Quick Start
+### **🛠️ Non-Financial Actions**  
+- **Bounty registration** via Gib Work  
+
+---
+
+## **🤖 AI Integration Features**  
+
+### **💡 LangChain Integration**  
+- **Blockchain-ready LangChain tools**  
+- **Autonomous agent support** with **React framework**  
+- **Persistent memory management**  
+- **Real-time streaming responses**  
+
+### **🚀 Vercel AI SDK Integration**  
+- **Framework-agnostic** AI toolkit  
+- **Seamless integration** for AI agent workflows  
+
+### **🔄 Autonomous AI Modes**  
+- **Interactive mode** for user-guided operations  
+- **Fully autonomous mode** for AI-driven tasks  
+- **Configurable action intervals & error handling**  
+
+### **🖼️ AI-Powered Tools**  
+- **DALL·E integration** for **NFT artwork generation**  
+- **Natural Language Processing (NLP)** for blockchain commands  
+- **Automated price feed tracking & market analysis**  
+- **AI-driven decision-making for DeFi strategies**  
+
+---
+
+## **🚀 Quick Start Guide**  
 
 ```typescript
 import { SolanaAIAgent, createSolanaTools } from "solana-ai-agents";
@@ -132,134 +117,71 @@ const agent = new SolanaAIAgent(
 const tools = createSolanaTools(agent);
 ```
 
-## Usage Examples
+---
 
-- Deploy a New Token
+## **🛠️ Usage Examples**  
 
-- Create NFT on 3Land
-When creating an NFT using 3Land's tool, it automatically goes for sale on 3.land website
+- **Deploy a New Token**  
+- **Create NFTs & Collections** (Auto-listed on **3Land**)  
+- **Swap & Lend Tokens**  
+- **Stake SOL on Solana & Solayer**  
+- **ZK Compression Airdrops**  
+- **Fetch Market Data via Pyth**  
+- **Open & Close Perpetual Trades**  
+- **Manage Drift Vaults & Accounts**  
+- **Borrow & Repay Loans on Drift**  
 
-- Create NFT Collection
+---
 
-- Swap Tokens
+## **🔍 Advanced AI & Blockchain Examples**  
 
-- Lend Tokens
+### **LangGraph Multi-Agent System**  
+This repository includes a **multi-agent system** using **LangGraph & Solana AI Agent**.  
 
-- Stake SOL
+📂 **Located in:** `examples/agent-kit-langgraph`  
 
-- Stake SOL on Solayer
+🔹 **Features:**  
+- **Multi-agent architecture** using **StateGraph**  
+- **Specialized agents** for queries, transactions, and market analysis  
+- **Fully typed** implementation in **TypeScript**  
+- **Configurable & scalable environment**  
 
-- Send an SPL Token Airdrop via ZK Compression
+🔗 **Explore the full implementation:** [LangGraph Example](examples/agent-kit-langgraph)  
 
-- Fetch Price Data from Pyth
+---
 
-- Open PERP Trade
+## **📦 Dependencies**  
 
-- Close PERP Trade
+This toolkit integrates key Solana and Metaplex libraries:  
+- `@solana/web3.js`  
+- `@solana/spl-token`  
+- `@metaplex-foundation/mpl-token-metadata`  
+- `@lightprotocol/compressed-token`  
+- `@lightprotocol/stateless.js`  
 
-- Close Empty Token Accounts
+---
 
-- Create a Drift account
+## **🤝 Contributing**  
 
-- Create a Drift Vault
+Contributions are welcome! Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file before submitting a **Pull Request**.  
 
-- Deposit into a Drift Vault
+---
 
-- Deposit into your Drift account
+## **👥 Contributors**  
 
-- Derive a Drift Vault address
+<a href="https://github.com/toptrendev/solana-ai-agents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toptrendev/solana-ai-agents" />
+</a>  
 
-- Do you have a Drift account
+---
 
-- Get Drift account information
+## **🛡️ Security Notice**  
 
-- Request withdrawal from Drift vault
+⚠️ **Always store your private keys securely.** This toolkit handles **private keys and blockchain transactions**, so ensure proper security measures.  
 
-- Carry out a perpetual trade using a Drift vault
+---
 
-- Carry out a perpetual trade using your Drift account
+## **📬 Contact & Community**  
 
-- Update Drift vault parameters
-
-- Withdraw from Drift account
-
-- Borrow from Drift
-
-- Repay Drift loan
-
-- Withdraw from Drift vault
-
-- Update the address a Drift vault is delegated to
-
-- Get Voltr Vault Position Values
-
-- Deposit into Voltr Strategy
-
-- Withdraw from Voltr Strategy
-
-- Get a Solana asset by its ID
-
-## Examples
-
-### LangGraph Multi-Agent System
-
-The repository includes an advanced example of building a multi-agent system using LangGraph and Solana AI Agent. Located in `examples/agent-kit-langgraph`, this example demonstrates:
-
-- Multi-agent architecture using LangGraph's StateGraph
-- Specialized agents for different tasks:
-  - General purpose agent for basic queries
-  - Transfer/Swap agent for transaction operations
-  - Read agent for blockchain data queries
-  - Manager agent for routing and orchestration
-- Fully typed TypeScript implementation
-- Environment-based configuration
-
-Check out the [LangGraph example](examples/agent-kit-langgraph) for a complete implementation of an advanced Solana agents system.
-
-## Dependencies
-
-The toolkit relies on several key Solana and Metaplex libraries:
-
-- @solana/web3.js
-- @solana/spl-token
-- @metaplex-foundation/digital-asset-standard-api
-- @metaplex-foundation/mpl-token-metadata
-- @metaplex-foundation/mpl-core
-- @metaplex-foundation/umi
-- @lightprotocol/compressed-token
-- @lightprotocol/stateless.js
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute to this project.
-
-## Contributors
-
-<a href="https://github.com/earthzetaorg/solana-ai-agents/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=earthzetaorg/solana-ai-agents" />
-</a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=earthzetaorg/solana-ai-agents&type=Date)](https://star-history.com/#earthzetaorg/solana-ai-agents&Date)
-
-## License
-
-Apache-2 License
-
-## Security
-
-This toolkit handles private keys and transactions. Always ensure you're using it in a secure environment and never share your private keys.
-
-## 👋 Contact Me
-
-### 
-Telegram: https://t.me/earthzeta
-###
-<div style={{display:flex; justify-content:space-evenly}}> 
-    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>    
-</div>
+📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
+📢 **Discord:** [toptrendev](https://discordapp.com/users/334173411402317846)  
