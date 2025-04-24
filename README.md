@@ -184,4 +184,4 @@ Contributions are welcome! Please review the [CONTRIBUTING.md](CONTRIBUTING.md) 
 ## **📬 Contact & Community**  
 
 📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
-📢 **Discord:** [toptrendev](https://discordapp.com/users/334173411402317846)  
+📢 **Twitter:** [toptrendev](https://x.com/toptrendev)  
