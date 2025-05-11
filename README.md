@@ -185,3 +185,4 @@ Contributions are welcome! Please review the [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
 📢 **Twitter:** [toptrendev](https://x.com/toptrendev)  
+📢 **Discord Username:** toptrendev
